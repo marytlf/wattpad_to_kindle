@@ -138,5 +138,5 @@ def get_all_chapters(url):
     driver.quit()
 
 
-url="<url>"
+url=""
 get_all_chapters(url)
